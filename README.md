@@ -11,5 +11,7 @@ Real-time currency converter web app.
 - Supports 150+ currencies
 - Shows flag icons
 
-  ##Live
-  👉 Try it live: (https://ahsanul-mostakin.github.io/Currency-Converter-Web/)
+## Live
+
+👉 **Try it live:** [Currency Converter Web](https://ahsanul-mostakin.github.io/Currency-Converter-Web/)
+
