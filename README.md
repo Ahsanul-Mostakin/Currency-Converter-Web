@@ -1,17 +1,7 @@
 # Currency-Converter-Web
 
-A web-based currency converter using real-time exchange rates.
+Real-time currency converter supporting 150+ currencies with flag icons.  
 
-## CurrencyConverterWeb
+👉 **Live Demo:** [Currency Converter Web](https://ahsanul-mostakin.github.io/Currency-Converter-Web/)  
 
-Real-time currency converter web app.
-
-## Features
-
-- Supports 150+ currencies
-- Shows flag icons
-
-## Live
-
-👉 **Try it live:** [Currency Converter Web](https://ahsanul-mostakin.github.io/Currency-Converter-Web/)
-
+Made with ❤️ by **Ahsanul Mostakin**
